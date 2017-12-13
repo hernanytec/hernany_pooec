@@ -1,0 +1,19 @@
+Tamagochi: 
+
+    1- Já que não conheço muita coisa sobre os tamagochis, adaptei (junto com um colega) o código para fazer uma batalha entre              pokemons. O jogador escolhe um pokemon e o outro é escolhido aleatoriamente, os pokemons disponíveis são os 3                        primários da cidade de pallet + o pichu, a batalha ocorre semelhante ao que ocorria com os tamags, a diferença é que o                  pokemon pode evoluir durante a luta, e  caso isso ocorra sua vida e força aumentam.
+
+    2 - Wesley Castro, colega de turma.
+
+    3 - Quanto a linguagem, de sorte que ainda estou me acostumando com o c++ me perco um pouco com a  sintaxe e afins, não               foi um problema tão grande por que boa parte do código já estava escrito.
+
+     4 - aproximadamente 2:30h.
+
+Circo: 
+
+     1 -  Bilheteria, calcular o lucro dela com desconto nas meias entradas.
+
+     2 - Wesley Castro.
+
+     3 - Não consegui fazer esse código rodar no windows (perdi muito tempo com isso)
+
+     4 - 1h .

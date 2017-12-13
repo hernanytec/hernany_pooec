@@ -1,0 +1,20 @@
+1-o que você fez:
+    [1.0 P] Cadastrar um cliente com cpf.
+    [1.0 P] Abrir contas para clientes.    
+        [1.0 E] Cada cliente pode ter até 2 contas ativas.
+     [1.0 E] Encerrar contas de clientes
+     [1.0 P] Mostrar os clientes e suas contas ativas.
+        [1.0 E] Mostre ordenado por nome do cliente.
+    [1.0 P] Fazer login e logout no sistema.
+    [1.0 P] Mostrar dados do cliente, suas contas e saldos.
+    [1.0 P] Realizar operações de saldo, saque, depósito e extrato, tal como foi implementado no primeiro trabalho.
+    Total de 9 pontos.
+           
+2-com quem você fez: alone
+   
+3-suas dificuldades:
+    -tive problemas pra alterar o valor quando eram realizadas operações com uma conta [não estava usando passagm por referência].
+    -não fiz o ponto "transferência entre contas" por que não consegui pensar em um jeito de fazê-lo.
+    -tive algumas dificuldades para acessar um vetor dentro do outro e consegui fazer a manipulação necessária: agencia.clientes[x].conta[y], mas deu certo.
+
+4-o tempo que levou o trabalho: praticamente todo o final de semana: tarde e noite de sábado, e a noite de domingo. 

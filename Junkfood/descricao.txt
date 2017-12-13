@@ -1,0 +1,11 @@
+1- fiz todos os pontos que eram pedidos na descrição do trabalho, exceto: 
+
+       [1.0 P] Pemitir que o admin possa alterar o nome, a quantidade e o valor de um produto na espiral.                                         [2.0 E]Cheque se índice, qtd e valor são válidos e se nome não é vazio.                                                                     [1.0 P]Faça um código de inicialização para o sistema já iniciar com alguns produtos nas espirais.
+
+      o que dá um total de 7P e 1E, concluídos.
+
+2 -  Fiz junto com o Wesley Castro
+
+3 - O código deu loop infinito em algumas tentativas de implementação dos pontos que não conseguimos resolver,           não dava erro no console mas mesmo assim não funcionava e não conseguimos identificar o motivo. Sem contar         com os segmentation fault.
+
+4 - Em torno de 4 horas.

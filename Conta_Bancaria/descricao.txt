@@ -1,0 +1,4 @@
+    o que você fez - Alterações no código para exibir o "saldo parcial" para cada operação no extrato, e mais algumas poucas mudanças de visualização do código
+    com quem você fez - Fiz todas as alterações junto com o Wesley Castro
+    suas dificuldades - Não tive dificuldades, pois o código já estava quase completo
+    o tempo que levou o trabalho - pouco mais de 1h
